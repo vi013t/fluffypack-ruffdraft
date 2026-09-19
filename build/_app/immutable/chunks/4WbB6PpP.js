@@ -1,0 +1,1 @@
+var e=``+new URL(`../assets/app.5J4ZauyK.css`,import.meta.url).href;export{e as t};
