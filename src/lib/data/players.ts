@@ -42,7 +42,7 @@ export default [
 	{
 		name: "Lucas",
 		discord: "lucasrv.",
-		minecraft: "Zeropem20639309",
+		minecraft: "Zeropen20639309",
 	},
 	{
 		name: "Maya",
