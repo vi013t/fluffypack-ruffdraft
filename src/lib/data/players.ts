@@ -32,7 +32,7 @@ export default [
 	{
 		name: "Dan",
 		discord: "monke6207",
-		minecraft: "monethy",
+		minecraft: "monkethy",
 	},
 	{
 		name: "Ira",
