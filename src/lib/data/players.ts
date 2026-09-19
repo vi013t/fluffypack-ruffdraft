@@ -40,6 +40,11 @@ export default [
 		minecraft: "communardira",
 	},
 	{
+		name: "Lucas",
+		discord: "lucasrv.",
+		minecraft: "Zeropem20639309",
+	},
+	{
 		name: "Maya",
 		discord: "sl1dr",
 		minecraft: "sl1dr",
