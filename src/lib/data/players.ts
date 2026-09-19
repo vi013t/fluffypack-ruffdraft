@@ -30,6 +30,11 @@ export default [
 		minecraft: "somsnoslara",
 	},
 	{
+		name: "Dan",
+		discord: "monke6207",
+		minecraft: "monke",
+	},
+	{
 		name: "Ira",
 		discord: "pedgoni",
 		minecraft: "communardira",

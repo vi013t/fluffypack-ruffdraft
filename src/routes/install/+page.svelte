@@ -49,6 +49,12 @@
 		}
 	}
 
+	@media (orientation: portrait) {
+		.buttons {
+			flex-direction: column;
+		}
+	}
+
 	.buttons {
 		display: flex;
 		justify-content: space-evenly;
